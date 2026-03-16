@@ -256,14 +256,18 @@ index=main sourcetype=suricata event_type=alert
 
 ## 📸 Screenshots
 
-> Add your dashboard screenshots here
 
-| Screenshot | Description |
-|---|---|
-| `dashboard1.png` | Full Nmap Attack Monitor dashboard — alerts over time spike |
-| `dashboard2.png` | Live Alert Feed with external threat actor IPs |
-| `attacks_port22.png` | ET CINS, ET DROP, ET COMPROMISED alerts |
-| `ufw_rules.png` | UFW firewall rules confirmed active |
+### Nmap Attack Monitor Dashboard
+![Dashboard Overview](dashboard1.png)
+
+### Live Alert Feed — External Threat Actors
+![Live Alert Feed](dashboard2.png)
+
+### Real External Attacks on Port 22
+![Port 22 Attacks](attacks_port22.png)
+
+### UFW Firewall Rules Active
+![UFW Firewall](ips_allowed.png)
 
 ---
 
